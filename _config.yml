@@ -32,6 +32,10 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+markdown: kramdown
+
+header_pages:
+  - benchmarks.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
