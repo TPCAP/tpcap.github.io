@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Online Competition of Trajectory Planning for Automated Parking: Benchmarks, Achievements, Learned Lessons, and Future Perspectives"
+date:   2022-12-14 14:00:00 +0800
+categories: tpcap update
+---
+
+***Abstract***—Automated parking is a typical function in a self-driving car. The trajectory planning module directly reflects the intelligence level of an automated parking system. Although many competitions have been launched for autonomous driving, most of them focused on on-road driving scenarios. However, driving on a structured road greatly differs from parking in an unstructured environment. In addition, previous competitions competed on the overall driving performance instead of the trajectory planning performance. A trajectory planning competition of automated parking (TPCAP) has been recently organized. This event competed on parking-oriented planners without involving other modules, such as localization, perception, or tracking control. This study reports the TPCAP benchmarks, achievements, experiences, and future perspectives.
+
+B. Li *et al*., "Online Competition of Trajectory Planning for Automated Parking: Benchmarks, Achievements, LearnedLessons,and Future Perspectives," in *IEEE Transactions on Intelligent Vehicles*, doi: 10.1109/TIV.2022.3228963.
+ [[Link]](https://ieeexplore.ieee.org/document/9983499)
+
